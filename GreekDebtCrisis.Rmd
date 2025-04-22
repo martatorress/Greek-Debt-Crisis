@@ -1,6 +1,6 @@
 ---
 title: "Greek Debt Crisis"
-author: "Artem Urlapov"
+author: "Artem"
 date: "2025-02-14"
 output: html_document
 ---
